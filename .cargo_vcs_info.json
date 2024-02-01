@@ -1,5 +1,6 @@
 {
   "git": {
-    "sha1": "70c8600b29349f9ee0501577284d8300ae9c8055"
-  }
+    "sha1": "44b836cf9216a22bf150aecf7b7f0918fd96e680"
+  },
+  "path_in_vcs": "csv-core"
 }
